@@ -1,2 +1,3 @@
 # slider
-Slider component
+Slider component:
+This is a test Slider.
